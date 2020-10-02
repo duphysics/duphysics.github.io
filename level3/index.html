@@ -30,15 +30,15 @@
         <meta name="msapplication-TileColor" content="#ffffff">
         <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
         <meta name="theme-color" content="#ffffff">
-        
+
         <title>
 			Level 3 Physics Info - Home
 		</title>
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 		<link rel="stylesheet" href="/level3/stylesheet.css">
-        
-        <script type="text/javascript" language="javascript" src="./timetable.json"></script> 
+
+        <script type="text/javascript" language="javascript" src="./timetable.json"></script>
         <style>
             table {
                 width: 75%;
@@ -110,28 +110,38 @@
               <li><a href="https://durham.cloud.panopto.eu/">Encore</a></li>
             </ul>
           </div>
-        </nav> 
+        </nav>
         <div class="container" style="margin-top:50px">
             <h1>Home</h1>
-            This is a webpage with useful information relating to the Level 3 Physics course at Durham University. Unless specified, all lecture notes have been rehosted in the event that DUO goes down. None of this material has been produced by the owners of this website, and all copyright lies with material creators.<br/><br/>
-            
+            <p>This is a webpage with useful information relating to the Level 3 Physics course at Durham University. Unless specified, all lecture notes have been rehosted in the event that DUO goes down. None of this material has been produced by the owners of this website, and all copyright lies with material creators.</p>
+
             <h2>This website is currently a work in progress.</h2>
 
-            <h3><a href="./timetable.pdf">Module Timetable</a></h3>
-            <h3><a href="https://www.durhamcalendar.uk/">Generate a timetable for your Google Calendar</a></h3>
-            <h3><a href="https://mega.nz/#F!X5xgjQKB!mc9Zkk7SY0gO-Q0mbyq5gA">Link to textbook pdfs</a></h3><br/><br/>
-        
+            <h2>Quick Links:</h2>
+            <ul>
+                <li>
+                    <h3><a href="./timetable.pdf">Official module timetable</a> (or <a href="./timetable-brief.pdf">briefened version</a>)</h3>
+                </li>
+                <li>
+                    <h3><a href="https://mega.nz/#F!X5xgjQKB!mc9Zkk7SY0gO-Q0mbyq5gA">Textbook pdf archive</a></h3>
+                </li>
+                <li>
+                    <h3><a href="https://www.durhamcalendar.uk/">Generate a timetable for your Google Calendar</a></h3>
+                </li>
+            </ul>
+
+
             <h2>Lecture Timetable</h2>
             <h3>Lecture timetable for week <span id="weekNo"></span>.</h3>
-            
+
             <table id="timetable">
             </table>
-            
+
             <br/>Enter week number: <input id="weekNoUser"/> <button onclick="javascript:genUserTable()">Submit</button>
             <br/><br/>
         </div>
-        
-        <script>            
+
+        <script>
             // Get the input field
             var input = document.getElementById("weekNoUser");
 
@@ -144,25 +154,25 @@
                 // Trigger the button element with a click
                 document.getElementById("myBtn").click();
               }
-            }); 
-            
-            function ISO8601_week_no(dt) 
+            });
+
+            function ISO8601_week_no(dt)
             {
                  var tdt = new Date(dt.valueOf());
                  var dayn = (dt.getDay() + 6) % 7;
                  tdt.setDate(tdt.getDate() - dayn + 3);
                  var firstThursday = tdt.valueOf();
                  tdt.setMonth(0, 1);
-                 if (tdt.getDay() !== 4) 
+                 if (tdt.getDay() !== 4)
                    {
                   tdt.setMonth(0, 1 + ((4 - tdt.getDay()) + 7) % 7);
                     }
                  return 1 + Math.ceil((firstThursday - tdt) / 604800000);
             }
-            
+
             var dt = new Date();
             var weekNo = ISO8601_week_no(dt)-41;
-            
+
             function genTable(weekNo) {
                 var table = document.getElementById("timetable");
                 table.innerHTML = '';
@@ -183,9 +193,9 @@
                     }
                 }
             }
-            
+
             genTable(weekNo);
-            
+
             function genUserTable() {
                 var weekNo = document.getElementById("weekNoUser").value;
                 genTable(Number(weekNo)-1);
