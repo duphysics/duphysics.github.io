@@ -1,0 +1,80 @@
+.container {
+    background-color: gainsboro;
+    min-height: 100vh;
+    width: 80vw;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+body {
+    padding-left: 2em;
+    padding-right: 2em;
+    background-color: steelblue
+}
+
+.title {
+    padding: 10px;
+    vertical-align: middle;
+}
+
+img {
+    height: 4em;
+}
+
+.main_table {
+    width: 97%;
+    border-collapse: collapse;
+    margin: 0px auto;
+}
+
+hr {
+     display: block;
+     margin-top: 0.5em;
+     margin-bottom: 0.5em;
+     margin-left: auto;
+     margin-right: auto;
+     border-style: inset;
+     border-width: 1px;
+}
+
+.main_td {
+    width: 50%;
+    padding: 30px;
+    padding-top: 0px;
+    vertical-align: top;
+    border: 1px solid darkgrey;
+}
+
+.navbar-inverse {
+    font-size: 125%
+}
+
+.dropdown-menu {
+ font-size: 90%;
+}
+
+ /* Style the buttons that are used to open and close the accordion panel */
+.accordion {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  text-align: left;
+  border: none;
+  outline: none;
+  transition: 0.4s;
+}
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+.active, .accordion:hover {
+  background-color: #ccc;
+}
+
+/* Style the accordion panel. Note: hidden by default */
+.panel {
+  padding: 18px 18px 18px 18px;
+  background-color: white;
+  display: none;
+  overflow: hidden;
+} 

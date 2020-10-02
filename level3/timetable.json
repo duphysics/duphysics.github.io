@@ -1,0 +1,2088 @@
+timetable = {
+    "weeks": [
+        {
+            "days": [
+                [
+                    {
+                        "name": "Foundations of Physics 3A",
+                        "code": "PHYS3621",
+                        "lecturer": "Gidopoulos, Dr N",
+                        "location": "",
+                        "startTime": 9
+                    },
+                    {
+                        "name": "Foundations of Physics 3B",
+                        "code": "PHYS3631",
+                        "lecturer": "Clark, Prof S J",
+                        "location": "",
+                        "startTime": 13
+                    },
+                    {
+                        "name": "Planets and Cosmology 3",
+                        "code": "PHYS3651",
+                        "lecturer": "Wilman, Dr R",
+                        "location": "",
+                        "startTime": 17
+                    }
+                ],
+                [
+                    {
+                        "name": "Foundations of Physics 3A",
+                        "code": "PHYS3621",
+                        "lecturer": "Gidopoulos, Dr N",
+                        "location": "",
+                        "startTime": 13
+                    },
+                    {
+                        "name": "Condensed Matter Physics 3",
+                        "code": "PHYS3711",
+                        "lecturer": "Hunt, Dr M R",
+                        "location": "",
+                        "startTime": 17
+                    },
+                    {
+                        "name": "Modern Atomic and Optical Physics 3",
+                        "code": "PHYS3721",
+                        "lecturer": "Carty, Dr D",
+                        "location": "",
+                        "startTime": 12
+                    }
+                ],
+                [
+                    {
+                        "name": "Foundations of Physics 3B",
+                        "code": "PHYS3631",
+                        "lecturer": "Clark, Prof S J",
+                        "location": "",
+                        "startTime": 11
+                    },
+                    {
+                        "name": "Planets and Cosmology 3",
+                        "code": "PHYS3651",
+                        "lecturer": "Wilman, Dr R",
+                        "location": "",
+                        "startTime": 9
+                    },
+                    {
+                        "name": "Theoretical Physics 3",
+                        "code": "PHYS3661",
+                        "lecturer": "Anderson, Dr J",
+                        "location": "",
+                        "startTime": 12
+                    }
+                ],
+                [
+                    {
+                        "name": "Theoretical Physics 3",
+                        "code": "PHYS3661",
+                        "lecturer": "Anderson, Dr J",
+                        "location": "",
+                        "startTime": 13
+                    }
+                ],
+                [
+                    {
+                        "name": "Foundations of Physics 3A",
+                        "code": "PHYS3621",
+                        "lecturer": "Gidopoulos, Dr N",
+                        "location": "",
+                        "startTime": 13
+                    },
+                    {
+                        "name": "Condensed Matter Physics 3",
+                        "code": "PHYS3711",
+                        "lecturer": "Hunt, Dr M R",
+                        "location": "",
+                        "startTime": 9
+                    },
+                    {
+                        "name": "Modern Atomic and Optical Physics 3",
+                        "code": "PHYS3721",
+                        "lecturer": "Carty, Dr D",
+                        "location": "",
+                        "startTime": 17
+                    }
+                ]
+            ]
+        },
+        {
+            "days": [
+                [
+                    {
+                        "name": "Foundations of Physics 3A",
+                        "code": "PHYS3621",
+                        "lecturer": "Gidopoulos, Dr N",
+                        "location": "",
+                        "startTime": 9
+                    },
+                    {
+                        "name": "Foundations of Physics 3B",
+                        "code": "PHYS3631",
+                        "lecturer": "Clark, Prof S J",
+                        "location": "",
+                        "startTime": 13
+                    },
+                    {
+                        "name": "Planets and Cosmology 3",
+                        "code": "PHYS3651",
+                        "lecturer": "Wilman, Dr R",
+                        "location": "",
+                        "startTime": 17
+                    }
+                ],
+                [
+                    {
+                        "name": "Foundations of Physics 3A",
+                        "code": "PHYS3621",
+                        "lecturer": "Gidopoulos, Dr N",
+                        "location": "",
+                        "startTime": 13
+                    },
+                    {
+                        "name": "Condensed Matter Physics 3",
+                        "code": "PHYS3711",
+                        "lecturer": "Hunt, Dr M R",
+                        "location": "",
+                        "startTime": 17
+                    },
+                    {
+                        "name": "Modern Atomic and Optical Physics 3",
+                        "code": "PHYS3721",
+                        "lecturer": "Carty, Dr D",
+                        "location": "",
+                        "startTime": 12
+                    }
+                ],
+                [
+                    {
+                        "name": "Foundations of Physics 3B",
+                        "code": "PHYS3631",
+                        "lecturer": "Clark, Prof S J",
+                        "location": "",
+                        "startTime": 11
+                    },
+                    {
+                        "name": "Planets and Cosmology 3",
+                        "code": "PHYS3651",
+                        "lecturer": "Wilman, Dr R",
+                        "location": "",
+                        "startTime": 9
+                    },
+                    {
+                        "name": "Theoretical Physics 3",
+                        "code": "PHYS3661",
+                        "lecturer": "Anderson, Dr J",
+                        "location": "",
+                        "startTime": 12
+                    }
+                ],
+                [
+                    {
+                        "name": "Theoretical Physics 3",
+                        "code": "PHYS3661",
+                        "lecturer": "Anderson, Dr J",
+                        "location": "",
+                        "startTime": 13
+                    }
+                ],
+                [
+                    {
+                        "name": "Foundations of Physics 3A",
+                        "code": "PHYS3621",
+                        "lecturer": "Gidopoulos, Dr N",
+                        "location": "",
+                        "startTime": 13
+                    },
+                    {
+                        "name": "Condensed Matter Physics 3",
+                        "code": "PHYS3711",
+                        "lecturer": "Hunt, Dr M R",
+                        "location": "",
+                        "startTime": 9
+                    },
+                    {
+                        "name": "Modern Atomic and Optical Physics 3",
+                        "code": "PHYS3721",
+                        "lecturer": "Carty, Dr D",
+                        "location": "",
+                        "startTime": 17
+                    }
+                ]
+            ]
+        },
+        {
+            "days": [
+                [
+                    {
+                        "name": "Foundations of Physics 3A",
+                        "code": "PHYS3621",
+                        "lecturer": "Gidopoulos, Dr N",
+                        "location": "",
+                        "startTime": 9
+                    },
+                    {
+                        "name": "Planets and Cosmology 3",
+                        "code": "PHYS3651",
+                        "lecturer": "Wilman, Dr R",
+                        "location": "",
+                        "startTime": 17
+                    }
+                ],
+                [
+                    {
+                        "name": "Foundations of Physics 3A",
+                        "code": "PHYS3621",
+                        "lecturer": "Gidopoulos, Dr N",
+                        "location": "",
+                        "startTime": 13
+                    },
+                    {
+                        "name": "Condensed Matter Physics 3",
+                        "code": "PHYS3711",
+                        "lecturer": "Hunt, Dr M R",
+                        "location": "",
+                        "startTime": 17
+                    },
+                    {
+                        "name": "Modern Atomic and Optical Physics 3",
+                        "code": "PHYS3721",
+                        "lecturer": "Carty, Dr D",
+                        "location": "",
+                        "startTime": 12
+                    }
+                ],
+                [
+                    {
+                        "name": "Planets and Cosmology 3",
+                        "code": "PHYS3651",
+                        "lecturer": "Wilman, Dr R",
+                        "location": "",
+                        "startTime": 9
+                    },
+                    {
+                        "name": "Theoretical Physics 3",
+                        "code": "PHYS3661",
+                        "lecturer": "Anderson, Dr J",
+                        "location": "",
+                        "startTime": 12
+                    }
+                ],
+                [
+                    {
+                        "name": "Theoretical Physics 3",
+                        "code": "PHYS3661",
+                        "lecturer": "Anderson, Dr J",
+                        "location": "",
+                        "startTime": 13
+                    }
+                ],
+                [
+                    {
+                        "name": "Foundations of Physics 3A",
+                        "code": "PHYS3621",
+                        "lecturer": "Gidopoulos, Dr N",
+                        "location": "",
+                        "startTime": 13
+                    },
+                    {
+                        "name": "Condensed Matter Physics 3",
+                        "code": "PHYS3711",
+                        "lecturer": "Hunt, Dr M R",
+                        "location": "",
+                        "startTime": 9
+                    },
+                    {
+                        "name": "Modern Atomic and Optical Physics 3",
+                        "code": "PHYS3721",
+                        "lecturer": "Carty, Dr D",
+                        "location": "",
+                        "startTime": 17
+                    }
+                ]
+            ]
+        },
+        {
+            "days": [
+                [
+                    {
+                        "name": "Foundations of Physics 3A",
+                        "code": "PHYS3621",
+                        "lecturer": "Gidopoulos, Dr N",
+                        "location": "",
+                        "startTime": 9
+                    },
+                    {
+                        "name": "Foundations of Physics 3B",
+                        "code": "PHYS3631",
+                        "lecturer": "Clark, Prof S J",
+                        "location": "",
+                        "startTime": 13
+                    },
+                    {
+                        "name": "Planets and Cosmology 3",
+                        "code": "PHYS3651",
+                        "lecturer": "Wilman, Dr R",
+                        "location": "",
+                        "startTime": 17
+                    }
+                ],
+                [
+                    {
+                        "name": "Foundations of Physics 3A",
+                        "code": "PHYS3621",
+                        "lecturer": "Gidopoulos, Dr N",
+                        "location": "",
+                        "startTime": 13
+                    },
+                    {
+                        "name": "Condensed Matter Physics 3",
+                        "code": "PHYS3711",
+                        "lecturer": "Hunt, Dr M R",
+                        "location": "",
+                        "startTime": 17
+                    },
+                    {
+                        "name": "Modern Atomic and Optical Physics 3",
+                        "code": "PHYS3721",
+                        "lecturer": "Carty, Dr D",
+                        "location": "",
+                        "startTime": 12
+                    }
+                ],
+                [
+                    {
+                        "name": "Foundations of Physics 3B",
+                        "code": "PHYS3631",
+                        "lecturer": "Clark, Prof S J",
+                        "location": "",
+                        "startTime": 11
+                    },
+                    {
+                        "name": "Planets and Cosmology 3",
+                        "code": "PHYS3651",
+                        "lecturer": "Wilman, Dr R",
+                        "location": "",
+                        "startTime": 9
+                    },
+                    {
+                        "name": "Theoretical Physics 3",
+                        "code": "PHYS3661",
+                        "lecturer": "Anderson, Dr J",
+                        "location": "",
+                        "startTime": 12
+                    }
+                ],
+                [
+                    {
+                        "name": "Theoretical Physics 3",
+                        "code": "PHYS3661",
+                        "lecturer": "Anderson, Dr J",
+                        "location": "",
+                        "startTime": 13
+                    }
+                ],
+                [
+                    {
+                        "name": "Foundations of Physics 3A",
+                        "code": "PHYS3621",
+                        "lecturer": "Gidopoulos, Dr N",
+                        "location": "",
+                        "startTime": 13
+                    },
+                    {
+                        "name": "Condensed Matter Physics 3",
+                        "code": "PHYS3711",
+                        "lecturer": "Hunt, Dr M R",
+                        "location": "",
+                        "startTime": 9
+                    },
+                    {
+                        "name": "Modern Atomic and Optical Physics 3",
+                        "code": "PHYS3721",
+                        "lecturer": "Carty, Dr D",
+                        "location": "",
+                        "startTime": 17
+                    }
+                ]
+            ]
+        },
+        {
+            "days": [
+                [
+                    {
+                        "name": "Foundations of Physics 3A",
+                        "code": "PHYS3621",
+                        "lecturer": "Gidopoulos, Dr N",
+                        "location": "",
+                        "startTime": 9
+                    },
+                    {
+                        "name": "Foundations of Physics 3B",
+                        "code": "PHYS3631",
+                        "lecturer": "Clark, Prof S J",
+                        "location": "",
+                        "startTime": 13
+                    },
+                    {
+                        "name": "Planets and Cosmology 3",
+                        "code": "PHYS3651",
+                        "lecturer": "Wilman, Dr R",
+                        "location": "",
+                        "startTime": 17
+                    }
+                ],
+                [
+                    {
+                        "name": "Foundations of Physics 3A",
+                        "code": "PHYS3621",
+                        "lecturer": "Gidopoulos, Dr N",
+                        "location": "",
+                        "startTime": 13
+                    },
+                    {
+                        "name": "Condensed Matter Physics 3",
+                        "code": "PHYS3711",
+                        "lecturer": "Hunt, Dr M R",
+                        "location": "",
+                        "startTime": 17
+                    },
+                    {
+                        "name": "Modern Atomic and Optical Physics 3",
+                        "code": "PHYS3721",
+                        "lecturer": "Carty, Dr D",
+                        "location": "",
+                        "startTime": 12
+                    }
+                ],
+                [
+                    {
+                        "name": "Foundations of Physics 3B",
+                        "code": "PHYS3631",
+                        "lecturer": "Clark, Prof S J",
+                        "location": "",
+                        "startTime": 11
+                    },
+                    {
+                        "name": "Planets and Cosmology 3",
+                        "code": "PHYS3651",
+                        "lecturer": "Li, Dr B",
+                        "location": "",
+                        "startTime": 9
+                    },
+                    {
+                        "name": "Theoretical Physics 3",
+                        "code": "PHYS3661",
+                        "lecturer": "Anderson, Dr J",
+                        "location": "",
+                        "startTime": 12
+                    }
+                ],
+                [
+                    {
+                        "name": "Theoretical Physics 3",
+                        "code": "PHYS3661",
+                        "lecturer": "Anderson, Dr J",
+                        "location": "",
+                        "startTime": 13
+                    }
+                ],
+                [
+                    {
+                        "name": "Foundations of Physics 3A",
+                        "code": "PHYS3621",
+                        "lecturer": "Bauer, Dr M",
+                        "location": "",
+                        "startTime": 13
+                    },
+                    {
+                        "name": "Condensed Matter Physics 3",
+                        "code": "PHYS3711",
+                        "lecturer": "Hunt, Dr M R",
+                        "location": "",
+                        "startTime": 9
+                    },
+                    {
+                        "name": "Modern Atomic and Optical Physics 3",
+                        "code": "PHYS3721",
+                        "lecturer": "Carty, Dr D",
+                        "location": "",
+                        "startTime": 17
+                    }
+                ]
+            ]
+        },
+        {
+            "days": [
+                [
+                    {
+                        "name": "Foundations of Physics 3A",
+                        "code": "PHYS3621",
+                        "lecturer": "Bauer, Dr M",
+                        "location": "",
+                        "startTime": 9
+                    },
+                    {
+                        "name": "Foundations of Physics 3B",
+                        "code": "PHYS3631",
+                        "lecturer": "Clark, Prof S J",
+                        "location": "",
+                        "startTime": 13
+                    },
+                    {
+                        "name": "Planets and Cosmology 3",
+                        "code": "PHYS3651",
+                        "lecturer": "Li, Dr B",
+                        "location": "",
+                        "startTime": 17
+                    }
+                ],
+                [
+                    {
+                        "name": "Foundations of Physics 3A",
+                        "code": "PHYS3621",
+                        "lecturer": "Bauer, Dr M",
+                        "location": "",
+                        "startTime": 13
+                    },
+                    {
+                        "name": "Condensed Matter Physics 3",
+                        "code": "PHYS3711",
+                        "lecturer": "Hunt, Dr M R",
+                        "location": "",
+                        "startTime": 17
+                    },
+                    {
+                        "name": "Modern Atomic and Optical Physics 3",
+                        "code": "PHYS3721",
+                        "lecturer": "Carty, Dr D",
+                        "location": "",
+                        "startTime": 12
+                    }
+                ],
+                [
+                    {
+                        "name": "Foundations of Physics 3B",
+                        "code": "PHYS3631",
+                        "lecturer": "Clark, Prof S J",
+                        "location": "",
+                        "startTime": 11
+                    },
+                    {
+                        "name": "Planets and Cosmology 3",
+                        "code": "PHYS3651",
+                        "lecturer": "Li, Dr B",
+                        "location": "",
+                        "startTime": 9
+                    },
+                    {
+                        "name": "Theoretical Physics 3",
+                        "code": "PHYS3661",
+                        "lecturer": "Anderson, Dr J",
+                        "location": "",
+                        "startTime": 12
+                    }
+                ],
+                [
+                    {
+                        "name": "Theoretical Physics 3",
+                        "code": "PHYS3661",
+                        "lecturer": "Anderson, Dr J",
+                        "location": "",
+                        "startTime": 13
+                    }
+                ],
+                [
+                    {
+                        "name": "Foundations of Physics 3A",
+                        "code": "PHYS3621",
+                        "lecturer": "Bauer, Dr M",
+                        "location": "",
+                        "startTime": 13
+                    },
+                    {
+                        "name": "Condensed Matter Physics 3",
+                        "code": "PHYS3711",
+                        "lecturer": "Hunt, Dr M R",
+                        "location": "",
+                        "startTime": 9
+                    },
+                    {
+                        "name": "Modern Atomic and Optical Physics 3",
+                        "code": "PHYS3721",
+                        "lecturer": "Carty, Dr D",
+                        "location": "",
+                        "startTime": 17
+                    }
+                ]
+            ]
+        },
+        {
+            "days": [
+                [
+                    {
+                        "name": "Foundations of Physics 3A",
+                        "code": "PHYS3621",
+                        "lecturer": "Bauer, Dr M",
+                        "location": "",
+                        "startTime": 9
+                    },
+                    {
+                        "name": "Foundations of Physics 3B",
+                        "code": "PHYS3631",
+                        "lecturer": "Clark, Prof S J",
+                        "location": "",
+                        "startTime": 13
+                    },
+                    {
+                        "name": "Planets and Cosmology 3",
+                        "code": "PHYS3651",
+                        "lecturer": "Li, Dr B",
+                        "location": "",
+                        "startTime": 17
+                    }
+                ],
+                [
+                    {
+                        "name": "Foundations of Physics 3A",
+                        "code": "PHYS3621",
+                        "lecturer": "Bauer, Dr M",
+                        "location": "",
+                        "startTime": 13
+                    },
+                    {
+                        "name": "Condensed Matter Physics 3",
+                        "code": "PHYS3711",
+                        "lecturer": "Bristowe, Dr",
+                        "location": "",
+                        "startTime": 17
+                    },
+                    {
+                        "name": "Modern Atomic and Optical Physics 3",
+                        "code": "PHYS3721",
+                        "lecturer": "Carty, Dr D",
+                        "location": "",
+                        "startTime": 12
+                    }
+                ],
+                [
+                    {
+                        "name": "Foundations of Physics 3B",
+                        "code": "PHYS3631",
+                        "lecturer": "Clark, Prof S J",
+                        "location": "",
+                        "startTime": 11
+                    },
+                    {
+                        "name": "Planets and Cosmology 3",
+                        "code": "PHYS3651",
+                        "lecturer": "Li, Dr B",
+                        "location": "",
+                        "startTime": 9
+                    },
+                    {
+                        "name": "Theoretical Physics 3",
+                        "code": "PHYS3661",
+                        "lecturer": "Anderson, Dr J",
+                        "location": "",
+                        "startTime": 12
+                    }
+                ],
+                [
+                    {
+                        "name": "Theoretical Physics 3",
+                        "code": "PHYS3661",
+                        "lecturer": "Anderson, Dr J",
+                        "location": "",
+                        "startTime": 13
+                    }
+                ],
+                [
+                    {
+                        "name": "Foundations of Physics 3A",
+                        "code": "PHYS3621",
+                        "lecturer": "Bauer, Dr M",
+                        "location": "",
+                        "startTime": 13
+                    },
+                    {
+                        "name": "Condensed Matter Physics 3",
+                        "code": "PHYS3711",
+                        "lecturer": "Bristowe, Dr",
+                        "location": "",
+                        "startTime": 9
+                    },
+                    {
+                        "name": "Modern Atomic and Optical Physics 3",
+                        "code": "PHYS3721",
+                        "lecturer": "Carty, Dr D",
+                        "location": "",
+                        "startTime": 17
+                    }
+                ]
+            ]
+        },
+        {
+            "days": [
+                [
+                    {
+                        "name": "Foundations of Physics 3A",
+                        "code": "PHYS3621",
+                        "lecturer": "Bauer, Dr M",
+                        "location": "",
+                        "startTime": 9
+                    },
+                    {
+                        "name": "Foundations of Physics 3B",
+                        "code": "PHYS3631",
+                        "lecturer": "Clark, Prof S J",
+                        "location": "",
+                        "startTime": 13
+                    },
+                    {
+                        "name": "Planets and Cosmology 3",
+                        "code": "PHYS3651",
+                        "lecturer": "Li, Dr B",
+                        "location": "",
+                        "startTime": 17
+                    }
+                ],
+                [
+                    {
+                        "name": "Foundations of Physics 3A",
+                        "code": "PHYS3621",
+                        "lecturer": "Bauer, Dr M",
+                        "location": "",
+                        "startTime": 13
+                    },
+                    {
+                        "name": "Condensed Matter Physics 3",
+                        "code": "PHYS3711",
+                        "lecturer": "Bristowe, Dr",
+                        "location": "",
+                        "startTime": 17
+                    },
+                    {
+                        "name": "Modern Atomic and Optical Physics 3",
+                        "code": "PHYS3721",
+                        "lecturer": "Carty, Dr D",
+                        "location": "",
+                        "startTime": 12
+                    }
+                ],
+                [
+                    {
+                        "name": "Foundations of Physics 3B",
+                        "code": "PHYS3631",
+                        "lecturer": "Clark, Prof S J",
+                        "location": "",
+                        "startTime": 11
+                    },
+                    {
+                        "name": "Planets and Cosmology 3",
+                        "code": "PHYS3651",
+                        "lecturer": "Li, Dr B",
+                        "location": "",
+                        "startTime": 9
+                    },
+                    {
+                        "name": "Theoretical Physics 3",
+                        "code": "PHYS3661",
+                        "lecturer": "Anderson, Dr J",
+                        "location": "",
+                        "startTime": 12
+                    }
+                ],
+                [
+                    {
+                        "name": "Foundations of Physics 3B",
+                        "code": "PHYS3631",
+                        "lecturer": "Clark, Prof S J",
+                        "location": "",
+                        "startTime": 17
+                    },
+                    {
+                        "name": "Theoretical Physics 3",
+                        "code": "PHYS3661",
+                        "lecturer": "Anderson, Dr J",
+                        "location": "",
+                        "startTime": 13
+                    }
+                ],
+                [
+                    {
+                        "name": "Condensed Matter Physics 3",
+                        "code": "PHYS3711",
+                        "lecturer": "Bristowe, Dr",
+                        "location": "",
+                        "startTime": 9
+                    },
+                    {
+                        "name": "Modern Atomic and Optical Physics 3",
+                        "code": "PHYS3721",
+                        "lecturer": "Carty, Dr D",
+                        "location": "",
+                        "startTime": 17
+                    }
+                ]
+            ]
+        },
+        {
+            "days": [
+                [
+                    {
+                        "name": "Foundations of Physics 3A",
+                        "code": "PHYS3621",
+                        "lecturer": "Bauer, Dr M",
+                        "location": "",
+                        "startTime": 9
+                    },
+                    {
+                        "name": "Foundations of Physics 3B",
+                        "code": "PHYS3631",
+                        "lecturer": "Clark, Prof S J",
+                        "location": "",
+                        "startTime": 13
+                    },
+                    {
+                        "name": "Planets and Cosmology 3",
+                        "code": "PHYS3651",
+                        "lecturer": "Li, Dr B",
+                        "location": "",
+                        "startTime": 17
+                    }
+                ],
+                [
+                    {
+                        "name": "Foundations of Physics 3A",
+                        "code": "PHYS3621",
+                        "lecturer": "Bauer, Dr M",
+                        "location": "",
+                        "startTime": 13
+                    },
+                    {
+                        "name": "Condensed Matter Physics 3",
+                        "code": "PHYS3711",
+                        "lecturer": "Bristowe, Dr",
+                        "location": "",
+                        "startTime": 17
+                    },
+                    {
+                        "name": "Modern Atomic and Optical Physics 3",
+                        "code": "PHYS3721",
+                        "lecturer": "Carty, Dr D",
+                        "location": "",
+                        "startTime": 12
+                    }
+                ],
+                [
+                    {
+                        "name": "Foundations of Physics 3B",
+                        "code": "PHYS3631",
+                        "lecturer": "Clark, Prof S J",
+                        "location": "",
+                        "startTime": 11
+                    },
+                    {
+                        "name": "Planets and Cosmology 3",
+                        "code": "PHYS3651",
+                        "lecturer": "Li, Dr B",
+                        "location": "",
+                        "startTime": 9
+                    },
+                    {
+                        "name": "Theoretical Physics 3",
+                        "code": "PHYS3661",
+                        "lecturer": "Anderson, Dr J",
+                        "location": "",
+                        "startTime": 12
+                    }
+                ],
+                [
+                    {
+                        "name": "Foundations of Physics 3B",
+                        "code": "PHYS3631",
+                        "lecturer": "Clark, Prof S J",
+                        "location": "",
+                        "startTime": 17
+                    },
+                    {
+                        "name": "Theoretical Physics 3",
+                        "code": "PHYS3661",
+                        "lecturer": "Anderson, Dr J",
+                        "location": "",
+                        "startTime": 13
+                    }
+                ],
+                [
+                    {
+                        "name": "Condensed Matter Physics 3",
+                        "code": "PHYS3711",
+                        "lecturer": "Bristowe, Dr",
+                        "location": "",
+                        "startTime": 9
+                    },
+                    {
+                        "name": "Modern Atomic and Optical Physics 3",
+                        "code": "PHYS3721",
+                        "lecturer": "Carty, Dr D",
+                        "location": "",
+                        "startTime": 17
+                    }
+                ]
+            ]
+        },
+        {
+            "days": [
+                [],
+                [],
+                [],
+                [],
+                []
+            ]
+        },
+        {
+            "days": [
+                [],
+                [],
+                [],
+                [],
+                []
+            ]
+        },
+        {
+            "days": [
+                [],
+                [],
+                [],
+                [],
+                []
+            ]
+        },
+        {
+            "days": [
+                [],
+                [],
+                [],
+                [],
+                []
+            ]
+        },
+        {
+            "days": [
+                [],
+                [],
+                [],
+                [],
+                []
+            ]
+        },
+        {
+            "days": [
+                [
+                    {
+                        "name": "Foundations of Physics 3A",
+                        "code": "PHYS3621",
+                        "lecturer": "Bauer, Dr M",
+                        "location": "",
+                        "startTime": 9
+                    },
+                    {
+                        "name": "Planets and Cosmology 3",
+                        "code": "PHYS3651",
+                        "lecturer": "Eke, Dr V R",
+                        "location": "",
+                        "startTime": 17
+                    }
+                ],
+                [
+                    {
+                        "name": "Foundations of Physics 3A",
+                        "code": "PHYS3621",
+                        "lecturer": "Bauer, Dr M",
+                        "location": "",
+                        "startTime": 13
+                    },
+                    {
+                        "name": "Condensed Matter Physics 3",
+                        "code": "PHYS3711",
+                        "lecturer": "Bristowe, Dr",
+                        "location": "",
+                        "startTime": 17
+                    },
+                    {
+                        "name": "Modern Atomic and Optical Physics 3",
+                        "code": "PHYS3721",
+                        "lecturer": "Hughes, Prof I G",
+                        "location": "",
+                        "startTime": 12
+                    }
+                ],
+                [
+                    {
+                        "name": "Foundations of Physics 3B",
+                        "code": "PHYS3631",
+                        "lecturer": "Mendis, Dr B G",
+                        "location": "",
+                        "startTime": 11
+                    },
+                    {
+                        "name": "Planets and Cosmology 3",
+                        "code": "PHYS3651",
+                        "lecturer": "Eke, Dr V R",
+                        "location": "",
+                        "startTime": 9
+                    },
+                    {
+                        "name": "Theoretical Physics 3",
+                        "code": "PHYS3661",
+                        "lecturer": "Richardson, Prof P",
+                        "location": "",
+                        "startTime": 12
+                    }
+                ],
+                [
+                    {
+                        "name": "Foundations of Physics 3B",
+                        "code": "PHYS3631",
+                        "lecturer": "Mendis, Dr B G",
+                        "location": "",
+                        "startTime": 17
+                    },
+                    {
+                        "name": "Theoretical Physics 3",
+                        "code": "PHYS3661",
+                        "lecturer": "Richardson, Prof P",
+                        "location": "",
+                        "startTime": 13
+                    }
+                ],
+                [
+                    {
+                        "name": "Condensed Matter Physics 3",
+                        "code": "PHYS3711",
+                        "lecturer": "Bristowe, Dr",
+                        "location": "",
+                        "startTime": 9
+                    },
+                    {
+                        "name": "Modern Atomic and Optical Physics 3",
+                        "code": "PHYS3721",
+                        "lecturer": "Hughes, Prof I G",
+                        "location": "",
+                        "startTime": 17
+                    }
+                ]
+            ]
+        },
+        {
+            "days": [
+                [
+                    {
+                        "name": "Foundations of Physics 3A",
+                        "code": "PHYS3621",
+                        "lecturer": "Bauer, Dr M",
+                        "location": "",
+                        "startTime": 9
+                    },
+                    {
+                        "name": "Planets and Cosmology 3",
+                        "code": "PHYS3651",
+                        "lecturer": "Eke, Dr V R",
+                        "location": "",
+                        "startTime": 17
+                    }
+                ],
+                [
+                    {
+                        "name": "Foundations of Physics 3A",
+                        "code": "PHYS3621",
+                        "lecturer": "Bauer, Dr M",
+                        "location": "",
+                        "startTime": 13
+                    },
+                    {
+                        "name": "Condensed Matter Physics 3",
+                        "code": "PHYS3711",
+                        "lecturer": "Bristowe, Dr",
+                        "location": "",
+                        "startTime": 17
+                    },
+                    {
+                        "name": "Modern Atomic and Optical Physics 3",
+                        "code": "PHYS3721",
+                        "lecturer": "Hughes, Prof I G",
+                        "location": "",
+                        "startTime": 12
+                    }
+                ],
+                [
+                    {
+                        "name": "Foundations of Physics 3B",
+                        "code": "PHYS3631",
+                        "lecturer": "Mendis, Dr B G",
+                        "location": "",
+                        "startTime": 11
+                    },
+                    {
+                        "name": "Planets and Cosmology 3",
+                        "code": "PHYS3651",
+                        "lecturer": "Eke, Dr V R",
+                        "location": "",
+                        "startTime": 9
+                    },
+                    {
+                        "name": "Theoretical Physics 3",
+                        "code": "PHYS3661",
+                        "lecturer": "Richardson, Prof P",
+                        "location": "",
+                        "startTime": 12
+                    }
+                ],
+                [
+                    {
+                        "name": "Foundations of Physics 3B",
+                        "code": "PHYS3631",
+                        "lecturer": "Mendis, Dr B G",
+                        "location": "",
+                        "startTime": 17
+                    },
+                    {
+                        "name": "Theoretical Physics 3",
+                        "code": "PHYS3661",
+                        "lecturer": "Richardson, Prof P",
+                        "location": "",
+                        "startTime": 13
+                    }
+                ],
+                [
+                    {
+                        "name": "Condensed Matter Physics 3",
+                        "code": "PHYS3711",
+                        "lecturer": "Bristowe, Dr",
+                        "location": "",
+                        "startTime": 9
+                    },
+                    {
+                        "name": "Modern Atomic and Optical Physics 3",
+                        "code": "PHYS3721",
+                        "lecturer": "Hughes, Prof I G",
+                        "location": "",
+                        "startTime": 17
+                    }
+                ]
+            ]
+        },
+        {
+            "days": [
+                [
+                    {
+                        "name": "Foundations of Physics 3A",
+                        "code": "PHYS3621",
+                        "lecturer": "Bauer, Dr M",
+                        "location": "",
+                        "startTime": 9
+                    },
+                    {
+                        "name": "Foundations of Physics 3B",
+                        "code": "PHYS3631",
+                        "lecturer": "Mendis, Dr B G",
+                        "location": "",
+                        "startTime": 13
+                    },
+                    {
+                        "name": "Planets and Cosmology 3",
+                        "code": "PHYS3651",
+                        "lecturer": "Eke, Dr V R",
+                        "location": "",
+                        "startTime": 17
+                    }
+                ],
+                [
+                    {
+                        "name": "Foundations of Physics 3A",
+                        "code": "PHYS3621",
+                        "lecturer": "Bauer, Dr M",
+                        "location": "",
+                        "startTime": 13
+                    },
+                    {
+                        "name": "Condensed Matter Physics 3",
+                        "code": "PHYS3711",
+                        "lecturer": "Bristowe, Dr",
+                        "location": "",
+                        "startTime": 17
+                    },
+                    {
+                        "name": "Modern Atomic and Optical Physics 3",
+                        "code": "PHYS3721",
+                        "lecturer": "Hughes, Prof I G",
+                        "location": "",
+                        "startTime": 12
+                    }
+                ],
+                [
+                    {
+                        "name": "Foundations of Physics 3B",
+                        "code": "PHYS3631",
+                        "lecturer": "Mendis, Dr B G",
+                        "location": "",
+                        "startTime": 11
+                    },
+                    {
+                        "name": "Planets and Cosmology 3",
+                        "code": "PHYS3651",
+                        "lecturer": "Eke, Dr V R",
+                        "location": "",
+                        "startTime": 9
+                    },
+                    {
+                        "name": "Theoretical Physics 3",
+                        "code": "PHYS3661",
+                        "lecturer": "Richardson, Prof P",
+                        "location": "",
+                        "startTime": 12
+                    }
+                ],
+                [
+                    {
+                        "name": "Foundations of Physics 3B",
+                        "code": "PHYS3631",
+                        "lecturer": "Mendis, Dr B G",
+                        "location": "",
+                        "startTime": 17
+                    },
+                    {
+                        "name": "Theoretical Physics 3",
+                        "code": "PHYS3661",
+                        "lecturer": "Richardson, Prof P",
+                        "location": "",
+                        "startTime": 13
+                    }
+                ],
+                [
+                    {
+                        "name": "Condensed Matter Physics 3",
+                        "code": "PHYS3711",
+                        "lecturer": "Bristowe, Dr",
+                        "location": "",
+                        "startTime": 9
+                    },
+                    {
+                        "name": "Modern Atomic and Optical Physics 3",
+                        "code": "PHYS3721",
+                        "lecturer": "Hughes, Prof I G",
+                        "location": "",
+                        "startTime": 17
+                    }
+                ]
+            ]
+        },
+        {
+            "days": [
+                [
+                    {
+                        "name": "Foundations of Physics 3A",
+                        "code": "PHYS3621",
+                        "lecturer": "Bauer, Dr M",
+                        "location": "",
+                        "startTime": 9
+                    },
+                    {
+                        "name": "Foundations of Physics 3B",
+                        "code": "PHYS3631",
+                        "lecturer": "Mendis, Dr B G",
+                        "location": "",
+                        "startTime": 13
+                    },
+                    {
+                        "name": "Planets and Cosmology 3",
+                        "code": "PHYS3651",
+                        "lecturer": "Eke, Dr V R",
+                        "location": "",
+                        "startTime": 17
+                    }
+                ],
+                [
+                    {
+                        "name": "Foundations of Physics 3A",
+                        "code": "PHYS3621",
+                        "lecturer": "Bauer, Dr M",
+                        "location": "",
+                        "startTime": 13
+                    },
+                    {
+                        "name": "Condensed Matter Physics 3",
+                        "code": "PHYS3711",
+                        "lecturer": "Kusumaatmaja, Dr H",
+                        "location": "",
+                        "startTime": 17
+                    },
+                    {
+                        "name": "Modern Atomic and Optical Physics 3",
+                        "code": "PHYS3721",
+                        "lecturer": "Hughes, Prof I G",
+                        "location": "",
+                        "startTime": 12
+                    }
+                ],
+                [
+                    {
+                        "name": "Foundations of Physics 3B",
+                        "code": "PHYS3631",
+                        "lecturer": "Mendis, Dr B G",
+                        "location": "",
+                        "startTime": 11
+                    },
+                    {
+                        "name": "Planets and Cosmology 3",
+                        "code": "PHYS3651",
+                        "lecturer": "Eke, Dr V R",
+                        "location": "",
+                        "startTime": 9
+                    },
+                    {
+                        "name": "Theoretical Physics 3",
+                        "code": "PHYS3661",
+                        "lecturer": "Richardson, Prof P",
+                        "location": "",
+                        "startTime": 12
+                    }
+                ],
+                [
+                    {
+                        "name": "Foundations of Physics 3B",
+                        "code": "PHYS3631",
+                        "lecturer": "Mendis, Dr B G",
+                        "location": "",
+                        "startTime": 17
+                    },
+                    {
+                        "name": "Theoretical Physics 3",
+                        "code": "PHYS3661",
+                        "lecturer": "Richardson, Prof P",
+                        "location": "",
+                        "startTime": 13
+                    }
+                ],
+                [
+                    {
+                        "name": "Condensed Matter Physics 3",
+                        "code": "PHYS3711",
+                        "lecturer": "Kusumaatmaja, Dr H",
+                        "location": "",
+                        "startTime": 9
+                    },
+                    {
+                        "name": "Modern Atomic and Optical Physics 3",
+                        "code": "PHYS3721",
+                        "lecturer": "Hughes, Prof I G",
+                        "location": "",
+                        "startTime": 17
+                    }
+                ]
+            ]
+        },
+        {
+            "days": [
+                [
+                    {
+                        "name": "Foundations of Physics 3A",
+                        "code": "PHYS3621",
+                        "lecturer": "Bauer, Dr M",
+                        "location": "",
+                        "startTime": 9
+                    },
+                    {
+                        "name": "Foundations of Physics 3B",
+                        "code": "PHYS3631",
+                        "lecturer": "Mendis, Dr B G",
+                        "location": "",
+                        "startTime": 13
+                    },
+                    {
+                        "name": "Planets and Cosmology 3",
+                        "code": "PHYS3651",
+                        "lecturer": "Eke, Dr V R",
+                        "location": "",
+                        "startTime": 17
+                    }
+                ],
+                [
+                    {
+                        "name": "Foundations of Physics 3A",
+                        "code": "PHYS3621",
+                        "lecturer": "Bauer, Dr M",
+                        "location": "",
+                        "startTime": 13
+                    },
+                    {
+                        "name": "Condensed Matter Physics 3",
+                        "code": "PHYS3711",
+                        "lecturer": "Kusumaatmaja, Dr H",
+                        "location": "",
+                        "startTime": 17
+                    },
+                    {
+                        "name": "Modern Atomic and Optical Physics 3",
+                        "code": "PHYS3721",
+                        "lecturer": "Hughes, Prof I G",
+                        "location": "",
+                        "startTime": 12
+                    }
+                ],
+                [
+                    {
+                        "name": "Foundations of Physics 3B",
+                        "code": "PHYS3631",
+                        "lecturer": "Mendis, Dr B G",
+                        "location": "",
+                        "startTime": 11
+                    },
+                    {
+                        "name": "Planets and Cosmology 3",
+                        "code": "PHYS3651",
+                        "lecturer": "Eke, Dr V R",
+                        "location": "",
+                        "startTime": 9
+                    },
+                    {
+                        "name": "Theoretical Physics 3",
+                        "code": "PHYS3661",
+                        "lecturer": "Richardson, Prof P",
+                        "location": "",
+                        "startTime": 12
+                    }
+                ],
+                [
+                    {
+                        "name": "Foundations of Physics 3B",
+                        "code": "PHYS3631",
+                        "lecturer": "Mendis, Dr B G",
+                        "location": "",
+                        "startTime": 17
+                    },
+                    {
+                        "name": "Theoretical Physics 3",
+                        "code": "PHYS3661",
+                        "lecturer": "Richardson, Prof P",
+                        "location": "",
+                        "startTime": 13
+                    }
+                ],
+                [
+                    {
+                        "name": "Condensed Matter Physics 3",
+                        "code": "PHYS3711",
+                        "lecturer": "Kusumaatmaja, Dr H",
+                        "location": "",
+                        "startTime": 9
+                    },
+                    {
+                        "name": "Modern Atomic and Optical Physics 3",
+                        "code": "PHYS3721",
+                        "lecturer": "Hughes, Prof I G",
+                        "location": "",
+                        "startTime": 17
+                    }
+                ]
+            ]
+        },
+        {
+            "days": [
+                [
+                    {
+                        "name": "Foundations of Physics 3A",
+                        "code": "PHYS3621",
+                        "lecturer": "Bauer, Dr M",
+                        "location": "",
+                        "startTime": 9
+                    },
+                    {
+                        "name": "Foundations of Physics 3B",
+                        "code": "PHYS3631",
+                        "lecturer": "Mendis, Dr B G",
+                        "location": "",
+                        "startTime": 13
+                    },
+                    {
+                        "name": "Planets and Cosmology 3",
+                        "code": "PHYS3651",
+                        "lecturer": "Eke, Dr V R",
+                        "location": "",
+                        "startTime": 17
+                    }
+                ],
+                [
+                    {
+                        "name": "Foundations of Physics 3A",
+                        "code": "PHYS3621",
+                        "lecturer": "Bauer, Dr M",
+                        "location": "",
+                        "startTime": 13
+                    },
+                    {
+                        "name": "Condensed Matter Physics 3",
+                        "code": "PHYS3711",
+                        "lecturer": "Kusumaatmaja, Dr H",
+                        "location": "",
+                        "startTime": 17
+                    },
+                    {
+                        "name": "Modern Atomic and Optical Physics 3",
+                        "code": "PHYS3721",
+                        "lecturer": "Hughes, Prof I G",
+                        "location": "",
+                        "startTime": 12
+                    }
+                ],
+                [
+                    {
+                        "name": "Foundations of Physics 3B",
+                        "code": "PHYS3631",
+                        "lecturer": "Mendis, Dr B G",
+                        "location": "",
+                        "startTime": 11
+                    },
+                    {
+                        "name": "Planets and Cosmology 3",
+                        "code": "PHYS3651",
+                        "lecturer": "Eke, Dr V R",
+                        "location": "",
+                        "startTime": 9
+                    },
+                    {
+                        "name": "Theoretical Physics 3",
+                        "code": "PHYS3661",
+                        "lecturer": "Richardson, Prof P",
+                        "location": "",
+                        "startTime": 12
+                    }
+                ],
+                [
+                    {
+                        "name": "Foundations of Physics 3B",
+                        "code": "PHYS3631",
+                        "lecturer": "Mendis, Dr B G",
+                        "location": "",
+                        "startTime": 17
+                    },
+                    {
+                        "name": "Theoretical Physics 3",
+                        "code": "PHYS3661",
+                        "lecturer": "Richardson, Prof P",
+                        "location": "",
+                        "startTime": 13
+                    }
+                ],
+                [
+                    {
+                        "name": "Condensed Matter Physics 3",
+                        "code": "PHYS3711",
+                        "lecturer": "Kusumaatmaja, Dr H",
+                        "location": "",
+                        "startTime": 9
+                    },
+                    {
+                        "name": "Modern Atomic and Optical Physics 3",
+                        "code": "PHYS3721",
+                        "lecturer": "Hughes, Prof I G",
+                        "location": "",
+                        "startTime": 17
+                    }
+                ]
+            ]
+        },
+        {
+            "days": [
+                [
+                    {
+                        "name": "Foundations of Physics 3A",
+                        "code": "PHYS3621",
+                        "lecturer": "Bauer, Dr M",
+                        "location": "",
+                        "startTime": 9
+                    },
+                    {
+                        "name": "Foundations of Physics 3B",
+                        "code": "PHYS3631",
+                        "lecturer": "Mendis, Dr B G",
+                        "location": "",
+                        "startTime": 13
+                    },
+                    {
+                        "name": "Planets and Cosmology 3",
+                        "code": "PHYS3651",
+                        "lecturer": "Eke, Dr V R",
+                        "location": "",
+                        "startTime": 17
+                    }
+                ],
+                [
+                    {
+                        "name": "Foundations of Physics 3A",
+                        "code": "PHYS3621",
+                        "lecturer": "Bauer, Dr M",
+                        "location": "",
+                        "startTime": 13
+                    },
+                    {
+                        "name": "Condensed Matter Physics 3",
+                        "code": "PHYS3711",
+                        "lecturer": "Kusumaatmaja, Dr H",
+                        "location": "",
+                        "startTime": 17
+                    },
+                    {
+                        "name": "Modern Atomic and Optical Physics 3",
+                        "code": "PHYS3721",
+                        "lecturer": "Hughes, Prof I G",
+                        "location": "",
+                        "startTime": 12
+                    }
+                ],
+                [
+                    {
+                        "name": "Foundations of Physics 3B",
+                        "code": "PHYS3631",
+                        "lecturer": "Mendis, Dr B G",
+                        "location": "",
+                        "startTime": 11
+                    },
+                    {
+                        "name": "Planets and Cosmology 3",
+                        "code": "PHYS3651",
+                        "lecturer": "Eke, Dr V R",
+                        "location": "",
+                        "startTime": 9
+                    },
+                    {
+                        "name": "Theoretical Physics 3",
+                        "code": "PHYS3661",
+                        "lecturer": "Richardson, Prof P",
+                        "location": "",
+                        "startTime": 12
+                    }
+                ],
+                [
+                    {
+                        "name": "Foundations of Physics 3B",
+                        "code": "PHYS3631",
+                        "lecturer": "Mendis, Dr B G",
+                        "location": "",
+                        "startTime": 17
+                    },
+                    {
+                        "name": "Theoretical Physics 3",
+                        "code": "PHYS3661",
+                        "lecturer": "Richardson, Prof P",
+                        "location": "",
+                        "startTime": 13
+                    }
+                ],
+                [
+                    {
+                        "name": "Condensed Matter Physics 3",
+                        "code": "PHYS3711",
+                        "lecturer": "Kusumaatmaja, Dr H",
+                        "location": "",
+                        "startTime": 9
+                    },
+                    {
+                        "name": "Modern Atomic and Optical Physics 3",
+                        "code": "PHYS3721",
+                        "lecturer": "Hughes, Prof I G",
+                        "location": "",
+                        "startTime": 17
+                    }
+                ]
+            ]
+        },
+        {
+            "days": [
+                [
+                    {
+                        "name": "Foundations of Physics 3A",
+                        "code": "PHYS3621",
+                        "lecturer": "Bauer, Dr M",
+                        "location": "",
+                        "startTime": 9
+                    },
+                    {
+                        "name": "Foundations of Physics 3B",
+                        "code": "PHYS3631",
+                        "lecturer": "Mendis, Dr B G",
+                        "location": "",
+                        "startTime": 13
+                    },
+                    {
+                        "name": "Planets and Cosmology 3",
+                        "code": "PHYS3651",
+                        "lecturer": "Eke, Dr V R",
+                        "location": "",
+                        "startTime": 17
+                    }
+                ],
+                [
+                    {
+                        "name": "Foundations of Physics 3A",
+                        "code": "PHYS3621",
+                        "lecturer": "Bauer, Dr M",
+                        "location": "",
+                        "startTime": 13
+                    },
+                    {
+                        "name": "Condensed Matter Physics 3",
+                        "code": "PHYS3711",
+                        "lecturer": "Kusumaatmaja, Dr H",
+                        "location": "",
+                        "startTime": 17
+                    },
+                    {
+                        "name": "Modern Atomic and Optical Physics 3",
+                        "code": "PHYS3721",
+                        "lecturer": "Hughes, Prof I G",
+                        "location": "",
+                        "startTime": 12
+                    }
+                ],
+                [
+                    {
+                        "name": "Foundations of Physics 3B",
+                        "code": "PHYS3631",
+                        "lecturer": "Mendis, Dr B G",
+                        "location": "",
+                        "startTime": 11
+                    },
+                    {
+                        "name": "Planets and Cosmology 3",
+                        "code": "PHYS3651",
+                        "lecturer": "Eke, Dr V R",
+                        "location": "",
+                        "startTime": 9
+                    },
+                    {
+                        "name": "Theoretical Physics 3",
+                        "code": "PHYS3661",
+                        "lecturer": "Richardson, Prof P",
+                        "location": "",
+                        "startTime": 12
+                    }
+                ],
+                [
+                    {
+                        "name": "Foundations of Physics 3B",
+                        "code": "PHYS3631",
+                        "lecturer": "Mendis, Dr B G",
+                        "location": "",
+                        "startTime": 17
+                    },
+                    {
+                        "name": "Theoretical Physics 3",
+                        "code": "PHYS3661",
+                        "lecturer": "Richardson, Prof P",
+                        "location": "",
+                        "startTime": 13
+                    }
+                ],
+                [
+                    {
+                        "name": "Condensed Matter Physics 3",
+                        "code": "PHYS3711",
+                        "lecturer": "Kusumaatmaja, Dr H",
+                        "location": "",
+                        "startTime": 9
+                    },
+                    {
+                        "name": "Modern Atomic and Optical Physics 3",
+                        "code": "PHYS3721",
+                        "lecturer": "Hughes, Prof I G",
+                        "location": "",
+                        "startTime": 17
+                    }
+                ]
+            ]
+        },
+        {
+            "days": [
+                [
+                    {
+                        "name": "Foundations of Physics 3A",
+                        "code": "PHYS3621",
+                        "lecturer": "Bauer, Dr M",
+                        "location": "",
+                        "startTime": 9
+                    },
+                    {
+                        "name": "Foundations of Physics 3B",
+                        "code": "PHYS3631",
+                        "lecturer": "Mendis, Dr B G",
+                        "location": "",
+                        "startTime": 13
+                    },
+                    {
+                        "name": "Planets and Cosmology 3",
+                        "code": "PHYS3651",
+                        "lecturer": "Eke, Dr V R",
+                        "location": "",
+                        "startTime": 17
+                    }
+                ],
+                [
+                    {
+                        "name": "Foundations of Physics 3A",
+                        "code": "PHYS3621",
+                        "lecturer": "Bauer, Dr M",
+                        "location": "",
+                        "startTime": 13
+                    },
+                    {
+                        "name": "Condensed Matter Physics 3",
+                        "code": "PHYS3711",
+                        "lecturer": "Kusumaatmaja, Dr H",
+                        "location": "",
+                        "startTime": 17
+                    },
+                    {
+                        "name": "Modern Atomic and Optical Physics 3",
+                        "code": "PHYS3721",
+                        "lecturer": "Hughes, Prof I G",
+                        "location": "",
+                        "startTime": 12
+                    }
+                ],
+                [
+                    {
+                        "name": "Foundations of Physics 3B",
+                        "code": "PHYS3631",
+                        "lecturer": "Mendis, Dr B G",
+                        "location": "",
+                        "startTime": 11
+                    },
+                    {
+                        "name": "Planets and Cosmology 3",
+                        "code": "PHYS3651",
+                        "lecturer": "Eke, Dr V R",
+                        "location": "",
+                        "startTime": 9
+                    },
+                    {
+                        "name": "Theoretical Physics 3",
+                        "code": "PHYS3661",
+                        "lecturer": "Richardson, Prof P",
+                        "location": "",
+                        "startTime": 12
+                    }
+                ],
+                [
+                    {
+                        "name": "Theoretical Physics 3",
+                        "code": "PHYS3661",
+                        "lecturer": "Richardson, Prof P",
+                        "location": "",
+                        "startTime": 13
+                    }
+                ],
+                [
+                    {
+                        "name": "Condensed Matter Physics 3",
+                        "code": "PHYS3711",
+                        "lecturer": "Kusumaatmaja, Dr H",
+                        "location": "",
+                        "startTime": 9
+                    },
+                    {
+                        "name": "Modern Atomic and Optical Physics 3",
+                        "code": "PHYS3721",
+                        "lecturer": "Hughes, Prof I G",
+                        "location": "",
+                        "startTime": 17
+                    }
+                ]
+            ]
+        },
+        {
+            "days": [
+                [],
+                [],
+                [],
+                [],
+                []
+            ]
+        },
+        {
+            "days": [
+                [],
+                [],
+                [],
+                [],
+                []
+            ]
+        },
+        {
+            "days": [
+                [],
+                [],
+                [],
+                [],
+                []
+            ]
+        },
+        {
+            "days": [
+                [],
+                [],
+                [],
+                [],
+                []
+            ]
+        },
+        {
+            "days": [
+                [],
+                [],
+                [],
+                [],
+                []
+            ]
+        },
+        {
+            "days": [
+                [],
+                [],
+                [],
+                [],
+                []
+            ]
+        },
+        {
+            "days": [
+                [
+                    {
+                        "name": "Foundations of Physics 3A",
+                        "code": "PHYS3621",
+                        "lecturer": "Gidopoulos, Dr N",
+                        "location": "",
+                        "startTime": 9
+                    },
+                    {
+                        "name": "Foundations of Physics 3B",
+                        "code": "PHYS3631",
+                        "lecturer": "Clark, Prof S J",
+                        "location": "",
+                        "startTime": 13
+                    },
+                    {
+                        "name": "Planets and Cosmology 3",
+                        "code": "PHYS3651",
+                        "lecturer": "Li, Dr B",
+                        "location": "",
+                        "startTime": 17
+                    }
+                ],
+                [
+                    {
+                        "name": "Foundations of Physics 3A",
+                        "code": "PHYS3621",
+                        "lecturer": "Bauer, Dr M",
+                        "location": "",
+                        "startTime": 13
+                    },
+                    {
+                        "name": "Condensed Matter Physics 3",
+                        "code": "PHYS3711",
+                        "lecturer": "Hunt, Dr M R",
+                        "location": "",
+                        "startTime": 17
+                    },
+                    {
+                        "name": "Modern Atomic and Optical Physics 3",
+                        "code": "PHYS3721",
+                        "lecturer": "Carty, Dr D",
+                        "location": "",
+                        "startTime": 12
+                    }
+                ],
+                [
+                    {
+                        "name": "Foundations of Physics 3B",
+                        "code": "PHYS3631",
+                        "lecturer": "Mendis, Dr B G",
+                        "location": "",
+                        "startTime": 11
+                    },
+                    {
+                        "name": "Planets and Cosmology 3",
+                        "code": "PHYS3651",
+                        "lecturer": "Eke, Dr V R",
+                        "location": "",
+                        "startTime": 9
+                    },
+                    {
+                        "name": "Theoretical Physics 3",
+                        "code": "PHYS3661",
+                        "lecturer": "Anderson, Dr J",
+                        "location": "",
+                        "startTime": 12
+                    }
+                ],
+                [
+                    {
+                        "name": "Foundations of Physics 3B",
+                        "code": "PHYS3631",
+                        "lecturer": "Mendis, Dr B G",
+                        "location": "",
+                        "startTime": 17
+                    },
+                    {
+                        "name": "Theoretical Physics 3",
+                        "code": "PHYS3661",
+                        "lecturer": "Richardson, Prof P",
+                        "location": "",
+                        "startTime": 13
+                    }
+                ],
+                [
+                    {
+                        "name": "Condensed Matter Physics 3",
+                        "code": "PHYS3711",
+                        "lecturer": "Bristowe, Dr",
+                        "location": "",
+                        "startTime": 9
+                    },
+                    {
+                        "name": "Modern Atomic and Optical Physics 3",
+                        "code": "PHYS3721",
+                        "lecturer": "Hughes, Prof I G",
+                        "location": "",
+                        "startTime": 17
+                    }
+                ]
+            ]
+        },
+        {
+            "days": [
+                [
+                    {
+                        "name": "Foundations of Physics 3A",
+                        "code": "PHYS3621",
+                        "lecturer": "Bauer, Dr M",
+                        "location": "",
+                        "startTime": 9
+                    }
+                ],
+                [
+                    {
+                        "name": "Condensed Matter Physics 3",
+                        "code": "PHYS3711",
+                        "lecturer": "Kusumaatmaja, Dr H",
+                        "location": "",
+                        "startTime": 17
+                    }
+                ],
+                [],
+                [],
+                []
+            ]
+        }
+    ]
+}
