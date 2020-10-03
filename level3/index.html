@@ -184,7 +184,11 @@
                 var dayStr = "MTWtF";
 
                 document.getElementById("weekNo").innerHTML = Number(weekNo)+1;
-
+                
+                if (weekNo > 9) {
+                    weekNo += 4;
+                }
+                
                 for (var day = 0; day < 5; day++) {
                     for (var j = 0; j < timetable.weeks[weekNo].days[day].length; j++) {
                         var lecture = timetable.weeks[weekNo].days[day][j];
