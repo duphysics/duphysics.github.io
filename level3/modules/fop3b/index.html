@@ -104,8 +104,25 @@
             <h3>Statistical Physics</h3>
 
             <strong>Lecturer:</strong> Stewart Clark, <a href="mailto:s.j.clark@durham.ac.uk">s.j.clark@durham.ac.uk</a> <img src="../lecturers/stewart.jpg"><br/><br/>
-            <strong>Textbook:</strong> Statistical Physics: Enlarged Edition (2nd Edition), A. M. Guenault <br/><br/>
-
+            <strong>Textbook:</strong> Statistical Physics: Enlarged Edition (2nd Edition), A. M. Guenault 
+            
+            <button class="accordion">Lecture Notes</button>
+            <div class="panel">
+              <ul>
+                  <li><a href="/level3/lecture_notes/fop3b/stats/stats_1.pdf">Lecture 1</a></li>
+                  <li><a href="/level3/lecture_notes/fop3b/stats/stats_2.pdf">Lecture 2</a></li>
+                  <li><a href="/level3/lecture_notes/fop3b/stats/stats_3.pdf">Lecture 3</a></li>
+                  <li><a href="/level3/lecture_notes/fop3b/stats/stats_4.pdf">Lecture 4</a></li>
+                  <li><a href="/level3/lecture_notes/fop3b/stats/stats_5.pdf">Lecture 5</a></li>
+                  <li><a href="/level3/lecture_notes/fop3b/stats/stats_6.pdf">Lecture 6</a></li>
+                  <li><a href="/level3/lecture_notes/fop3b/stats/stats_7.pdf">Lecture 7</a></li>
+                  <li><a href="/level3/lecture_notes/fop3b/stats/stats_8.pdf">Lecture 8</a></li>
+                  <li><a href="/level3/lecture_notes/fop3b/stats/stats_9.pdf">Lecture 9</a></li>
+                  <li><a href="/level3/lecture_notes/fop3b/stats/stats_10.pdf">Lecture 10</a></li>
+                  <li><a href="/level3/lecture_notes/fop3b/stats/stats_11.pdf">Lecture 11</a></li>
+              </ul>
+            </div>
+            
             <h3>Condensed Matter Physics Part 1</h3>
 
             <strong>Lecturer:</strong> Budhika Mendis, <a href="mailto:b.g.mendis@durham.ac.uk">b.g.mendis@durham.ac.uk</a> <img src="../lecturers/budhika.jpg"><br/><br/>
@@ -113,12 +130,46 @@
             <ul>
                 <li style="color:red">Magnetism in Condensed Matter Physics (New Edition), S. Blundell</li>
                 <li>The Oxford Solid State Basics, S. H. Simon</li>
-            </ul><br/>
+            </ul>
+            
+            <button class="accordion">Lecture Notes</button>
+            <div class="panel">
+              <ul>
+                  <li>No notes yet</li>
+              </ul>
+            </div>
 
             <h3>Condensed Matter Physics Part 2</h3>
 
             <strong>Lecturer:</strong> Budhika Mendis, <a href="mailto:b.g.mendis@durham.ac.uk">b.g.mendis@durham.ac.uk</a> <img src="../lecturers/budhika.jpg"><br/><br/>
-            <strong>Textbook:</strong> Introduction to Solid State Physics (8th Edition), C. Kittel<br/><br/>
+            <strong>Textbook:</strong> Introduction to Solid State Physics (8th Edition), C. Kittel
+            
+            <button class="accordion">Lecture Notes</button>
+            <div class="panel">
+              <ul>
+                  <li>No notes yet</li>
+              </ul>
+            </div>
         </div>
+        <script>
+        var acc = document.getElementsByClassName("accordion");
+        var i;
+
+        for (i = 0; i < acc.length; i++) {
+          acc[i].addEventListener("click", function() {
+            /* Toggle between adding and removing the "active" class,
+            to highlight the button that controls the panel */
+            this.classList.toggle("active");
+
+            /* Toggle between hiding and showing the active panel */
+            var panel = this.nextElementSibling;
+            if (panel.style.display === "block") {
+              panel.style.display = "none";
+            } else {
+              panel.style.display = "block";
+            }
+          });
+        } 
+        </script>
     </body>
 </html>
