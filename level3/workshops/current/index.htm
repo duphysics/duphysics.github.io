@@ -110,5 +110,141 @@
                 <li><h3><a id="maop3" href="">Modern Atomic and Optical Physics 3</a></h3></li>
             </ul>
         </div>
+        <script>
+        function ISO8601_week_no(dt)
+            {
+                 var tdt = new Date(dt.valueOf());
+                 var dayn = (dt.getDay() + 6) % 7;
+                 tdt.setDate(tdt.getDate() - dayn + 3);
+                 var firstThursday = tdt.valueOf();
+                 tdt.setMonth(0, 1);
+                 if (tdt.getDay() !== 4)
+                   {
+                  tdt.setMonth(0, 1 + ((4 - tdt.getDay()) + 7) % 7);
+                    }
+                 return 1 + Math.ceil((firstThursday - tdt) / 604800000);
+            }
+
+            var dt = new Date();
+            var year = dt.getFullYear();
+            var weekNo;
+            
+            if (year == 2020) {
+                weekNo = ISO8601_week_no(dt)-40;
+            } else {
+                weekNo = ISO8601_week_no(dt)+5;
+            }
+            weekNo = 5
+            // FOP 3A Workshops
+            // QM3
+            if (2 <= weekNo && weekNo <= 6) {
+                var workshopNo = weekNo - 1;
+                document.getElementById("fop3a").href = "/level3/workshops/fop3a/qm3/qm3_workshop_"+workshopNo+".pdf";
+            }
+            
+            // NPP
+            if (8 <= weekNo) {
+                var workshopNo = weekNo - 7;
+                document.getElementById("fop3a").href = "/level3/workshops/fop3a/npp/npp_workshop_"+workshopNo+".pdf";
+            }
+            
+            // FOP 3B Workshops
+            // SP
+            if (3 <= weekNo && weekNo <= 9) {
+                var workshopNo = weekNo - 2;
+                document.getElementById("fop3b").href = "/level3/workshops/fop3b/stats/stats_workshop_"+workshopNo+".pdf";
+            }
+            
+            // CMP 1
+            if (10 <= weekNo && weekNo <= 15) {
+                var workshopNo = weekNo - 9;
+                document.getElementById("fop3b").href = "/level3/workshops/fop3b/cmp1/cmp1_workshop_"+workshopNo+".pdf";
+            }
+            
+            // CMP 2
+            if (16 <= weekNo) {
+                var workshopNo = weekNo - 15;
+                document.getElementById("fop3b").href = "/level3/workshops/fop3b/cmp2/cmp2_workshop_"+workshopNo+".pdf";
+            }
+            
+            // TP3 Workshops
+            // RED
+            if (3 <= weekNo && weekNo <= 9) {
+                var workshopNo = weekNo - 2;
+                document.getElementById("tp3").href = "/level3/workshops/tp3/red/red_workshop_"+workshopNo+".pdf";
+            }
+            
+            if (weekNo == 11) {
+                var workshopNo = weekNo - 3;
+                document.getElementById("tp3").href = "/level3/workshops/tp3/red/red_workshop_"+workshopNo+".pdf";
+            }
+            
+            // QT3
+            if (12 <= weekNo) {
+                var workshopNo = weekNo - 11;
+                document.getElementById("tp3").href = "/level3/workshops/tp3/qt3/qt3_workshop_"+workshopNo+".pdf";
+            }
+            
+            // CMP3 Workshops
+            // SSE
+            if (3 <= weekNo && weekNo <= 8) {
+                var workshopNo = weekNo - 2;
+                document.getElementById("cmp3").href = "/level3/workshops/cmp3/sse/sse_workshop_"+workshopNo+".pdf";
+            }
+            
+            // BS
+            if (weekNo == 9) {
+                var workshopNo = weekNo - 8;
+                document.getElementById("cmp3").href = "/level3/workshops/cmp3/bs/bs_workshop_"+workshopNo+".pdf";
+            }
+            
+            if (11 <= weekNo && weekNo <= 15) {
+                var workshopNo = weekNo - 9;
+                document.getElementById("cmp3").href = "/level3/workshops/cmp3/bs/bs_workshop_"+workshopNo+".pdf";
+            }
+            
+            // ISMP
+            if (16 <= weekNo) {
+                var workshopNo = weekNo - 15;
+                document.getElementById("cmp3").href = "/level3/workshops/cmp3/ismp/ismp_workshop_"+workshopNo+".pdf";
+            }
+            
+            // MAOP3 Workshops
+            // AC
+            if (3 <= weekNo && weekNo <= 9) {
+                var workshopNo = weekNo - 2;
+                document.getElementById("maop3").href = "/level3/workshops/maop3/ac/ac_workshop_"+workshopNo+".pdf";
+            }
+            
+            if (weekNo == 11) {
+                var workshopNo = weekNo - 3;
+                document.getElementById("maop3").href = "/level3/workshops/maop3/ac/ac_workshop_"+workshopNo+".pdf";
+            }
+            
+            // FO
+            if (12 <= weekNo) {
+                var workshopNo = weekNo - 11;
+                document.getElementById("maop3").href = "/level3/workshops/maop3/fo/fo_workshop_"+workshopNo+".pdf";
+            }
+            
+            // Planets Workshops
+            // Cosmo
+            if (3 <= weekNo && weekNo <= 9) {
+                var workshopNo = weekNo - 2;
+                document.getElementById("planets").href = "/level3/workshops/planets/cosmo/cosmo_workshop_"+workshopNo+".pdf";
+            }
+            
+            if (weekNo == 11) {
+                var workshopNo = weekNo - 3;
+                document.getElementById("planets").href = "/level3/workshops/planets/cosmo/cosmo_workshop_"+workshopNo+".pdf";
+            }
+            
+            // Planet
+            if (12 <= weekNo) {
+                var workshopNo = weekNo - 11;
+                document.getElementById("planets").href = "/level3/workshops/planets/planet/planet_workshop_"+workshopNo+".pdf";
+            }
+            
+        </script>
     </body>
 </html>
