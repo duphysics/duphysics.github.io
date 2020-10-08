@@ -105,6 +105,13 @@
 
             <strong>Lecturer:</strong> David Carty, <a href="mailto:david.carty@durham.ac.uk">david.carty@durham.ac.uk</a> <img src="../lecturers/david.jpg"><br/><br/>
             <strong>Textbook:</strong> Atomic Physics, C. J. Foot<br/><br/>
+            
+            <button class="accordion">Lecture Notes</button>
+            <div class="panel">
+              <ul>
+                  <li>No notes yet</li>
+              </ul>
+            </div>
 
             <h3>Fourier Optics</h3>
 
@@ -113,7 +120,37 @@
             <ul>
                 <li>Optics f2f: from Fourier to Fresnel, C. S. Adams and I. G. Hughes</li>
                 <li>Introduction to Fourier Optics (2nd Edition), J. W. Goodman</li>
-            </ul><br/><br/>
+            </ul>
+            
+            <button class="accordion">Lecture Notes</button>
+            <div class="panel">
+              <ul>
+                  <li>No notes yet</li>
+              </ul>
+            </div>
+            
+            <br/><br/>
         </div>
+        
+        <script>
+        var acc = document.getElementsByClassName("accordion");
+        var i;
+
+        for (i = 0; i < acc.length; i++) {
+          acc[i].addEventListener("click", function() {
+            /* Toggle between adding and removing the "active" class,
+            to highlight the button that controls the panel */
+            this.classList.toggle("active");
+
+            /* Toggle between hiding and showing the active panel */
+            var panel = this.nextElementSibling;
+            if (panel.style.display === "block") {
+              panel.style.display = "none";
+            } else {
+              panel.style.display = "block";
+            }
+          });
+        } 
+        </script>
     </body>
 </html>
